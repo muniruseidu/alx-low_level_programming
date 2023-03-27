@@ -1,4 +1,4 @@
-#include <stdio.h>
+rinclude i<.h>
 #include <ctype.h>
 /**
 *main - Prints all single digits of base 16 followed by new line
