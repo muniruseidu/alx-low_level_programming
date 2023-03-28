@@ -1,4 +1,5 @@
-
+#ifndef main_h
+#define main_h
 /**
 *File:main.h
 *Author:Pericles Adjovi
@@ -18,3 +19,7 @@ int print_sign(int n);
 int _abs(int);
 int add(int n, int m);
 int print_last_digit(int n);
+
+
+
+#endif
